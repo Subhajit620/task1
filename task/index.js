@@ -1,5 +1,5 @@
 const fs=require("fs");
-let jsonString=fs.readFileSync('task.json').toString();
+let jsonString=fs.readFileSync('task.json');
 
 
 
